@@ -1,0 +1,176 @@
+header{
+    width: 80%;
+}
+nav{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.br{
+    width: 300px;
+    height: 290px;
+}
+.br h1{
+    width: 250px;
+}
+main{
+    width: 80%;
+}
+button{
+    border: 2px solid blue;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: white;
+    color: blue;
+    
+}
+button:hover{
+    background-color: rgb(60, 60, 137);
+    color:white;
+    
+}
+.qwer{
+    text-align: center;
+}
+.zxc{
+    width: 750px;
+    height: 60px;
+    }
+    .cvb{
+        flex-direction: column;
+    }
+.asd{
+    border: 1px solid rgb(188, 180, 180);
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: rgba(168, 152, 152, 0.881);
+}
+.sdc{
+    color: rgb(61, 50, 50);
+}
+.box2 {
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.asd:hover{
+    background-color: blue;
+}
+
+.con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.wer4{
+    text-align: center;
+}
+.ert4{
+    width: 1180px;
+    height: 470px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+.yui{
+    width: 300px;
+    height: 395px;
+    
+    
+}
+.uio{
+    width: 334px;
+    height: 113px;
+    font-size: 30px;
+    
+}
+.olm{
+margin-top: 80px;
+color: rgb(104, 96, 96);
+}
+.nnm123{
+    margin-top: 50px;
+
+}
+.jkl{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+
+}
+.box4 div{
+    border: 1px solid;
+    width: 380px;
+    height: 516px;
+}
+.box4 div h3{
+    font-family: Mulish;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+}
+.box42 div a{
+    font-weight: 900;
+    font-size: 30px;
+}
+.box42{
+    display: flex;
+    width: Hug (1, 180px)px;
+        height: Hug (516px)px;
+        top: 2855.17px;
+        left: 130px;
+        gap: 20px;
+        opacity: 0px;
+}
+.bbc{
+    width: 150px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+footer{
+    height: 432px;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.popi{
+    width: 386px;
+    height: 142px;
+    color: white;
+    margin-top: 80px;
+}
+li{
+color: white;
+list-style: none;
+}
+.dfd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    row-gap: 20px;
+}
+
+    
